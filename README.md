@@ -8,7 +8,9 @@ Mechanical engineering projects developed using SolidWorks and practical fabrica
 Mechanical design and 3D modelling of a can-crushing mechanism.
 
 ### 2. Robert Mechanism
-Designed and modelled the linkage mechanism and fabricated a working prototype.
+Designed and modelled the linkage mechanism and fabricated a working prototype. 
+<img width="532" height="309" alt="image" src="https://github.com/user-attachments/assets/8adfe865-0733-4ffd-a5a6-f3a410f0cd6b" />
+
 
 ### 3. Cam-Roller Slotting Mechanism
 Designed a cam-and-roller mechanism with 3D assembly and motion studies.
